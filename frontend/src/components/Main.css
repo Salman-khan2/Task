@@ -1,0 +1,30 @@
+.main{
+    height: 3rem;
+    width: 100vw;
+   
+    display: flex;
+    flex-direction: row;
+}
+.icon{
+    padding: .7rem;
+    margin-left: 2rem;
+}
+.icon img{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.main h4{
+    display: flex;
+    align-items: center;
+}
+.icon1{
+    margin-top: .5rem;
+    height: 2rem;
+    width: 2rem;
+}
+.fl{
+    color: gray;
+}
+.bl{
+    color: blue;
+}
